@@ -1,0 +1,85 @@
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe.config
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.pdb
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csprojAssemblyReference.cache
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Properties.Resources.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Menu.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.GenerateResource.cache
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CoreCompileInputs.cache
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.exe
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.pdb
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.dll
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.xml
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmClientes.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmDocumentos.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmProductos.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CopyComplete
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmVentas.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmAgregarUsuarios.resources
+C:\Users\carlj\source\repos\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmLogin.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe.config
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.pdb
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csprojAssemblyReference.cache
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Properties.Resources.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmAgregarUsuarios.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmClientes.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmDocumentos.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmProductos.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmLogin.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmVentas.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Menu.resources
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.GenerateResource.cache
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CopyComplete
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.exe
+C:\Users\user\Downloads\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.pdb
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe.config
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.pdb
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Properties.Resources.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmAgregarUsuarios.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmClientes.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmDocumentos.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmProductos.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmLogin.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmVentas.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Menu.resources
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CopyComplete
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.exe
+C:\Users\user\Desktop\Documents\GitHub\RepositoriodeCRUD\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.pdb
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe.config
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.exe
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\SistemaVentasP2.pdb
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.Properties.Resources.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmAgregarUsuarios.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmClientes.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmDocumentos.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmProductos.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmLogin.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.csproj.CopyComplete
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.exe
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.pdb
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmVenta.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.FrmMenuu.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\SistemaVentasP2\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmBuscarProducto.resources
