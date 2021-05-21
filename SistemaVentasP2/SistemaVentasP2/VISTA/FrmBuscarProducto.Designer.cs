@@ -90,6 +90,7 @@ namespace SistemaVentasP2.VISTA
             this.txtBuscarProducto.Name = "txtBuscarProducto";
             this.txtBuscarProducto.Size = new System.Drawing.Size(251, 20);
             this.txtBuscarProducto.TabIndex = 27;
+            this.txtBuscarProducto.TextChanged += new System.EventHandler(this.txtBuscarProducto_TextChanged_1);
             // 
             // FrmBuscarProducto
             // 
@@ -103,7 +104,7 @@ namespace SistemaVentasP2.VISTA
             this.Name = "FrmBuscarProducto";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmBucarProducto";
-            this.Load += new System.EventHandler(this.FrmBuscarProducto_Load);
+           
             ((System.ComponentModel.ISupportInitialize)(this.DtgBuscarProducto)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

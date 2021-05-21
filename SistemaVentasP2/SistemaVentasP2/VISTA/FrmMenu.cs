@@ -56,12 +56,18 @@ namespace SistemaVentasP2
 
         private void tablaVentasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmVenta frmVenta = new FrmVenta();
-            frmVenta.MdiParent = this;
             frmVenta.Show();
+           
+           
         }
 
-   
+        private void FrmMenuu_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+
+      
     }
     
-}
+

@@ -10,7 +10,7 @@ namespace SistemaVentasP2.DAO
     {
 
 
-        public List<tb_documento> cargarDatoUserList()
+        public List<tb_documento> cargarComboDocumento()
 
         {
             List<tb_documento> Lista;

@@ -149,6 +149,7 @@ namespace SistemaVentasP2
             this.Name = "FrmMenuu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menú";
+            this.Load += new System.EventHandler(this.FrmMenuu_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

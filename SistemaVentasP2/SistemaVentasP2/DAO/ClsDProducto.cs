@@ -14,17 +14,17 @@ namespace SistemaVentasP2.DAO
         public List<tb_producto> cargarProductoFiltro(string filtro)
 
         {
-            List<tb_producto> Lista = new List<tb_producto>();
+            List<tb_producto> tb_Productos = new List<tb_producto>();
 
             using (sistema_ventasEntities db = new sistema_ventasEntities())
             {
-                Lista = (from listadoProductos in db.tb_producto
+                tb_Productos = (from listadoProductos in db.tb_producto
                          where listadoProductos.nombreProducto.Contains(filtro)
                          select listadoProductos).ToList();
-                //Lista = db.tb_producto.ToList();
+              
             }
 
-            return Lista;
+            return tb_Productos;
         }
 
 

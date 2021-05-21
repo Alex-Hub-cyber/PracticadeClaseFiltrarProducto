@@ -11,7 +11,7 @@ namespace SistemaVentasP2.DAO
     class ClsDCliente
     {
 
-        public List<tb_cliente> cargarDatoUserList()
+        public List<tb_cliente> cargarComboCliente()
 
         {
             List<tb_cliente> Lista;
@@ -70,9 +70,8 @@ namespace SistemaVentasP2.DAO
 
                 }
             }
-            catch (Exception ex)
-            {
-
+            catch (Exception ex) {
+                
             }
         }
 
@@ -96,9 +95,8 @@ namespace SistemaVentasP2.DAO
                 }
 
             }
-            catch (Exception ex)
-            {
-
+            catch (Exception ex) {
+                
             }
         }
     }
